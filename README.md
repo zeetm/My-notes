@@ -6,7 +6,8 @@
 
 This repository contains all of the notes taken by [Zeinab](https://github.com/zeetm/README) for the Lighthouse Labs Web Development Bootcamp.
 
-<h2> Table of Contents </h4>
+## Table of Contents 
 
  [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
+  
